@@ -5,7 +5,7 @@ Hi there 👋 I'm Francine aka tatinhadev.
 - 👯 I’m looking to collaborate on a project about Python and SQL. 
 - 📫 How to reach me: Linkedin.
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: I'm also a lawyer.
+- ⚡ Fun fact: I also have a law degree.
 
 <div>
   <a href="https://github.com/francineeli">
