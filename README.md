@@ -10,7 +10,7 @@ Hi there 👋 I'm Francine aka tatinhadev.
 <div>
   <a href="https://github.com/francineeli">
   <image height="180em" src=https://github-readme-stats.vercel.app/api?username=francineeli&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <image height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=francineeli&layout=compact&langs_count=16&theme=synthwave"/>
+  <image height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=francineeli&theme=synthwave&layout=compact&langs_count=16"/>
 </div>
 
 <div style="display: inline_block"><br>
