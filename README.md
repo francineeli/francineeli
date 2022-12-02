@@ -28,7 +28,6 @@ Hi there 👋 I'm Francine aka tatinhadev.
 ![get_next_line stamp](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 ![printf stamp](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)
 ![born 2 be root stamp](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
-![ready to help stamp](https://game.42sp.org.br/static/assets/achievements/volunteere.png)
 ![Snake animation](https://github.com/francineeli/francineeli/blob/output/github-contribution-grid-snake.svg)
 
 
