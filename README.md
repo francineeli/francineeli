@@ -24,10 +24,11 @@ Hi there 👋 I'm Francine aka tatinhadev.
   <a href="https://www.linkedin.com/in/francine-eli-barbosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![libft logo](https://game.42sp.org.br/static/assets/achievements/libftm.png)
-![get_next_line logo](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
-![printf logo](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)
-![born 2 be root logo](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
+![libft stamp](https://game.42sp.org.br/static/assets/achievements/libftm.png)
+![get_next_line stamp](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
+![printf stamp](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)
+![born 2 be root stamp](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
+![ready to help stamp](https://game.42sp.org.br/static/assets/achievements/volunteere.png)
 ![Snake animation](https://github.com/francineeli/francineeli/blob/output/github-contribution-grid-snake.svg)
 
 
