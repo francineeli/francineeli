@@ -6,7 +6,7 @@ Hi there 👋 I'm Francine aka tatinhadev.
 - 📫 How to reach me: francine.eli@gmail.com
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I also have a law degree.
-
+  
 <div>
   <a href="https://github.com/francineeli">
   <image height="165em" src=https://github-readme-stats.vercel.app/api?username=francineeli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -15,6 +15,8 @@ Hi there 👋 I'm Francine aka tatinhadev.
 
 <div style="display: inline_block"><br>
   <image align="center" alt="Fran-C" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <image align="center" alt="Fran-PostgreSQL" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <image align="center" alt="Fran-JavaScript" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
 ##
