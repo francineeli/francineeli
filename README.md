@@ -27,7 +27,7 @@ Hi there 👋 I'm Francine aka tatinhadev.
 </div>
 
 ![libft stamp](https://game.42sp.org.br/static/assets/achievements/libftm.png)
-  <a href src="https://github.com/francineeli/42SP-Libft" target="_blank">
+  <a href src="https://github.com/francineeli/42SP-Libft" target="_blank" img src="https://game.42sp.org.br/static/assets/achievements/libftm.png">
 ![get_next_line stamp](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 ![printf stamp](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)
 ![born 2 be root stamp](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
