@@ -16,7 +16,9 @@ Hi there 👋 I'm Francine aka tatinhadev.
 <div style="display: inline_block"><br>
   <image align="center" alt="Fran-C" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <image align="center" alt="Fran-PostgreSQL" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <image align="center" alt="Fran-JavaScript" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <image align="center" alt="Fran-JavaScript" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <image align="center" alt="Fran-HTML" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+   <image align="center" alt="Fran-CSS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
 
 ##
