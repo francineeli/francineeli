@@ -7,6 +7,12 @@ Hi there 👋 I'm Francine aka tatinhadev.
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: I also have a law degree.
   
+  
+  <div>
+  <a href="https://github.com/francineeli">
+  <image height="165em" src=https://github-readme-stats.vercel.app/api?username=francineeli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <image height="165em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=francineeli&theme=midnight-purple&layout=compact&langs_count=10"/>
+</div>
 
 <div style="display: inline_block"><br>
   <image align="center" alt="Fran-C" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -15,7 +21,7 @@ Hi there 👋 I'm Francine aka tatinhadev.
    <image align="center" alt="Fran-HTML" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
    <image align="center" alt="Fran-CSS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
-
+  
 ##
 
 <div>
@@ -27,6 +33,7 @@ Hi there 👋 I'm Francine aka tatinhadev.
 ![get_next_line stamp](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)
 ![printf stamp](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)
 ![born 2 be root stamp](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)
+![so long stamp](https://game.42sp.org.br/static/assets/achievements/so_longm.png)
 ![Snake animation](https://github.com/francineeli/francineeli/blob/output/github-contribution-grid-snake.svg)
 
 
