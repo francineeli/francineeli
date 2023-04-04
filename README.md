@@ -20,6 +20,8 @@ Hi there 👋 I'm Francine aka tatinhadev.
     <image align="center" alt="Fran-JavaScript" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <image align="center" alt="Fran-HTML" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
    <image align="center" alt="Fran-CSS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <image align="center" alt="Fran-CSS" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
+          
 </div>
   
 ##
