@@ -1,7 +1,8 @@
 Hi there 👋 I'm Francine aka tatinhadev.
 
-- 🔭 I’m currently a Software Engineering student at 42SP.
-- 🌱 I’m currently learning about C language, but I'm also studying SQL and JavaScript.
+- 🔭 I’m currently a Data Engineering.
+- I used to be a Software Engineering student at 42SP.
+- 🌱 I’m currently learning about cloud (Azure and AWS), AI, regulatory law about AI, databricks, but I'm also studying SQL, Python, C and Java.
 - 👯 I’m looking to collaborate on a project about Python. 
 - 📫 How to reach me: francine.eli@gmail.com
 - 😄 Pronouns: She/ Her
